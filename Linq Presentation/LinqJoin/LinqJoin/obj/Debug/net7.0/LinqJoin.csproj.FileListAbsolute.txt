@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Linq Presentation\LinqJoin\LinqJoin\bin\Debug\net7.0\LinqJoin.exe
+C:\Users\Lenovo\Desktop\Linq Presentation\LinqJoin\LinqJoin\bin\Debug\net7.0\LinqJoin.deps.json
+C:\Users\Lenovo\Desktop\Linq Presentation\LinqJoin\LinqJoin\bin\Debug\net7.0\LinqJoin.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Linq Presentation\LinqJoin\LinqJoin\bin\Debug\net7.0\LinqJoin.dll
+C:\Users\Lenovo\Desktop\Linq Presentation\LinqJoin\LinqJoin\bin\Debug\net7.0\LinqJoin.pdb
+C:\Users\Lenovo\Desktop\Linq Presentation\LinqJoin\LinqJoin\obj\Debug\net7.0\LinqJoin.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Linq Presentation\LinqJoin\LinqJoin\obj\Debug\net7.0\LinqJoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Linq Presentation\LinqJoin\LinqJoin\obj\Debug\net7.0\LinqJoin.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Linq Presentation\LinqJoin\LinqJoin\obj\Debug\net7.0\LinqJoin.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Linq Presentation\LinqJoin\LinqJoin\obj\Debug\net7.0\LinqJoin.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Linq Presentation\LinqJoin\LinqJoin\obj\Debug\net7.0\LinqJoin.dll
+C:\Users\Lenovo\Desktop\Linq Presentation\LinqJoin\LinqJoin\obj\Debug\net7.0\refint\LinqJoin.dll
+C:\Users\Lenovo\Desktop\Linq Presentation\LinqJoin\LinqJoin\obj\Debug\net7.0\LinqJoin.pdb
+C:\Users\Lenovo\Desktop\Linq Presentation\LinqJoin\LinqJoin\obj\Debug\net7.0\LinqJoin.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Linq Presentation\LinqJoin\LinqJoin\obj\Debug\net7.0\ref\LinqJoin.dll
